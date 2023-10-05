@@ -1,7 +1,6 @@
 package Växter;
 import Modell.Växt;
 
-// Ärver växt
 public class Kaktus extends Växt {
 
     public Kaktus(String namn, double höjd) {

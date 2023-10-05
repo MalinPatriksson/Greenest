@@ -1,7 +1,6 @@
 package Växter;
 import Modell.Växt;
 
-// Ärver växt
 public class KöttätandeVäxt extends Växt {
     public KöttätandeVäxt(String namn, double höjd) {
         super(namn, höjd);
